@@ -2,60 +2,32 @@
     "prefix": "/",
     "packages": [
         {
-            "name": "ipython",
-            "version": "8.14.0",
-            "build": "py311had7285e_1",
-            "filename_stem": "ipython-8.14.0-py311had7285e_1",
-            "filename": "ipython-8.14.0-py311had7285e_1.tar.gz"
-        },
-        {
-            "name": "backports.functools_lru_cache",
-            "version": "1.6.5",
+            "name": "xarray",
+            "version": "2022.11.0",
             "build": "pyhd8ed1ab_0",
-            "filename_stem": "backports.functools_lru_cache-1.6.5-pyhd8ed1ab_0",
-            "filename": "backports.functools_lru_cache-1.6.5-pyhd8ed1ab_0.tar.gz"
+            "filename_stem": "xarray-2022.11.0-pyhd8ed1ab_0",
+            "filename": "xarray-2022.11.0-pyhd8ed1ab_0.tar.gz"
         },
         {
-            "name": "asttokens",
-            "version": "2.4.0",
+            "name": "ipyleaflet",
+            "version": "0.17.2",
             "build": "pyhd8ed1ab_0",
-            "filename_stem": "asttokens-2.4.0-pyhd8ed1ab_0",
-            "filename": "asttokens-2.4.0-pyhd8ed1ab_0.tar.gz"
-        },
-        {
-            "name": "six",
-            "version": "1.16.0",
-            "build": "pyh6c4a22f_0",
-            "filename_stem": "six-1.16.0-pyh6c4a22f_0",
-            "filename": "six-1.16.0-pyh6c4a22f_0.tar.gz"
-        },
-        {
-            "name": "wheel",
-            "version": "0.41.2",
-            "build": "pyhd8ed1ab_0",
-            "filename_stem": "wheel-0.41.2-pyhd8ed1ab_0",
-            "filename": "wheel-0.41.2-pyhd8ed1ab_0.tar.gz"
+            "filename_stem": "ipyleaflet-0.17.2-pyhd8ed1ab_0",
+            "filename": "ipyleaflet-0.17.2-pyhd8ed1ab_0.tar.gz"
         },
         {
             "name": "prompt-toolkit",
-            "version": "3.0.39",
+            "version": "3.0.32",
             "build": "pyha770c72_0",
-            "filename_stem": "prompt-toolkit-3.0.39-pyha770c72_0",
-            "filename": "prompt-toolkit-3.0.39-pyha770c72_0.tar.gz"
+            "filename_stem": "prompt-toolkit-3.0.32-pyha770c72_0",
+            "filename": "prompt-toolkit-3.0.32-pyha770c72_0.tar.gz"
         },
         {
-            "name": "backcall",
-            "version": "0.2.0",
-            "build": "pyh9f0ad1d_0",
-            "filename_stem": "backcall-0.2.0-pyh9f0ad1d_0",
-            "filename": "backcall-0.2.0-pyh9f0ad1d_0.tar.gz"
-        },
-        {
-            "name": "decorator",
-            "version": "5.1.1",
-            "build": "pyhd8ed1ab_0",
-            "filename_stem": "decorator-5.1.1-pyhd8ed1ab_0",
-            "filename": "decorator-5.1.1-pyhd8ed1ab_0.tar.gz"
+            "name": "statsmodels",
+            "version": "0.13.2",
+            "build": "py310hd0d6244_0",
+            "filename_stem": "statsmodels-0.13.2-py310hd0d6244_0",
+            "filename": "statsmodels-0.13.2-py310hd0d6244_0.tar.gz"
         },
         {
             "name": "ptyprocess",
@@ -65,6 +37,27 @@
             "filename": "ptyprocess-0.7.0-pyhd3deb0d_0.tar.gz"
         },
         {
+            "name": "xeus-python-shell-raw",
+            "version": "0.5.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "xeus-python-shell-raw-0.5.0-pyhd8ed1ab_0",
+            "filename": "xeus-python-shell-raw-0.5.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "pkgutil-resolve-name",
+            "version": "1.3.10",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "pkgutil-resolve-name-1.3.10-pyhd8ed1ab_0",
+            "filename": "pkgutil-resolve-name-1.3.10-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "pygments",
+            "version": "2.13.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "pygments-2.13.0-pyhd8ed1ab_0",
+            "filename": "pygments-2.13.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
             "name": "pickleshare",
             "version": "0.7.5",
             "build": "py_1003",
@@ -72,18 +65,158 @@
             "filename": "pickleshare-0.7.5-py_1003.tar.gz"
         },
         {
-            "name": "emscripten-abi",
-            "version": "3.1.45",
-            "build": "h0edcd7e_15",
-            "filename_stem": "emscripten-abi-3.1.45-h0edcd7e_15",
-            "filename": "emscripten-abi-3.1.45-h0edcd7e_15.tar.gz"
+            "name": "param",
+            "version": "1.12.2",
+            "build": "pyh6c4a22f_0",
+            "filename_stem": "param-1.12.2-pyh6c4a22f_0",
+            "filename": "param-1.12.2-pyh6c4a22f_0.tar.gz"
         },
         {
-            "name": "wcwidth",
-            "version": "0.2.8",
+            "name": "idna",
+            "version": "2.10",
+            "build": "pyh9f0ad1d_0",
+            "filename_stem": "idna-2.10-pyh9f0ad1d_0",
+            "filename": "idna-2.10-pyh9f0ad1d_0.tar.gz"
+        },
+        {
+            "name": "python-dateutil",
+            "version": "2.8.2",
             "build": "pyhd8ed1ab_0",
-            "filename_stem": "wcwidth-0.2.8-pyhd8ed1ab_0",
-            "filename": "wcwidth-0.2.8-pyhd8ed1ab_0.tar.gz"
+            "filename_stem": "python-dateutil-2.8.2-pyhd8ed1ab_0",
+            "filename": "python-dateutil-2.8.2-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "ipycanvas",
+            "version": "0.13.1",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "ipycanvas-0.13.1-pyhd8ed1ab_0",
+            "filename": "ipycanvas-0.13.1-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "h2",
+            "version": "4.1.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "h2-4.1.0-pyhd8ed1ab_0",
+            "filename": "h2-4.1.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "backcall",
+            "version": "0.2.0",
+            "build": "pyh9f0ad1d_0",
+            "filename_stem": "backcall-0.2.0-pyh9f0ad1d_0",
+            "filename": "backcall-0.2.0-pyh9f0ad1d_0.tar.gz"
+        },
+        {
+            "name": "six",
+            "version": "1.16.0",
+            "build": "pyh6c4a22f_0",
+            "filename_stem": "six-1.16.0-pyh6c4a22f_0",
+            "filename": "six-1.16.0-pyh6c4a22f_0.tar.gz"
+        },
+        {
+            "name": "asttokens",
+            "version": "2.1.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "asttokens-2.1.0-pyhd8ed1ab_0",
+            "filename": "asttokens-2.1.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "anyio",
+            "version": "3.6.2",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "anyio-3.6.2-pyhd8ed1ab_0",
+            "filename": "anyio-3.6.2-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "gast",
+            "version": "0.4.0",
+            "build": "pyh9f0ad1d_0",
+            "filename_stem": "gast-0.4.0-pyh9f0ad1d_0",
+            "filename": "gast-0.4.0-pyh9f0ad1d_0.tar.gz"
+        },
+        {
+            "name": "mizani",
+            "version": "0.8.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "mizani-0.8.0-pyhd8ed1ab_0",
+            "filename": "mizani-0.8.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "requests-wasm-polyfill",
+            "version": "0.3.0",
+            "build": "h8bed8af_0",
+            "filename_stem": "requests-wasm-polyfill-0.3.0-h8bed8af_0",
+            "filename": "requests-wasm-polyfill-0.3.0-h8bed8af_0.tar.gz"
+        },
+        {
+            "name": "hpack",
+            "version": "4.0.0",
+            "build": "pyh9f0ad1d_0",
+            "filename_stem": "hpack-4.0.0-pyh9f0ad1d_0",
+            "filename": "hpack-4.0.0-pyh9f0ad1d_0.tar.gz"
+        },
+        {
+            "name": "rfc3986",
+            "version": "1.5.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "rfc3986-1.5.0-pyhd8ed1ab_0",
+            "filename": "rfc3986-1.5.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "importlib_resources",
+            "version": "5.10.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "importlib_resources-5.10.0-pyhd8ed1ab_0",
+            "filename": "importlib_resources-5.10.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "threadpoolctl",
+            "version": "3.1.0",
+            "build": "pyh8a188c0_0",
+            "filename_stem": "threadpoolctl-3.1.0-pyh8a188c0_0",
+            "filename": "threadpoolctl-3.1.0-pyh8a188c0_0.tar.gz"
+        },
+        {
+            "name": "xyzservices",
+            "version": "2022.9.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "xyzservices-2022.9.0-pyhd8ed1ab_0",
+            "filename": "xyzservices-2022.9.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "stack_data",
+            "version": "0.6.1",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "stack_data-0.6.1-pyhd8ed1ab_0",
+            "filename": "stack_data-0.6.1-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "click",
+            "version": "7.1.2",
+            "build": "pyh9f0ad1d_0",
+            "filename_stem": "click-7.1.2-pyh9f0ad1d_0",
+            "filename": "click-7.1.2-pyh9f0ad1d_0.tar.gz"
+        },
+        {
+            "name": "decorator",
+            "version": "5.1.1",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "decorator-5.1.1-pyhd8ed1ab_0",
+            "filename": "decorator-5.1.1-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "pyparsing",
+            "version": "3.0.9",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "pyparsing-3.0.9-pyhd8ed1ab_0",
+            "filename": "pyparsing-3.0.9-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "pexpect",
+            "version": "4.8.0",
+            "build": "pyh1a96a4e_2",
+            "filename_stem": "pexpect-4.8.0-pyh1a96a4e_2",
+            "filename": "pexpect-4.8.0-pyh1a96a4e_2.tar.gz"
         },
         {
             "name": "pure_eval",
@@ -93,116 +226,389 @@
             "filename": "pure_eval-0.2.2-pyhd8ed1ab_0.tar.gz"
         },
         {
-            "name": "jedi",
-            "version": "0.19.1",
+            "name": "zlib",
+            "version": "1.2.13",
+            "build": "h387d4f7_1",
+            "filename_stem": "zlib-1.2.13-h387d4f7_1",
+            "filename": "zlib-1.2.13-h387d4f7_1.tar.gz"
+        },
+        {
+            "name": "clapack",
+            "version": "3.2.1",
+            "build": "h29e2456_4",
+            "filename_stem": "clapack-3.2.1-h29e2456_4",
+            "filename": "clapack-3.2.1-h29e2456_4.tar.gz"
+        },
+        {
+            "name": "openpyxl",
+            "version": "3.0.9",
             "build": "pyhd8ed1ab_0",
-            "filename_stem": "jedi-0.19.1-pyhd8ed1ab_0",
-            "filename": "jedi-0.19.1-pyhd8ed1ab_0.tar.gz"
-        },
-        {
-            "name": "numpy",
-            "version": "1.25.2",
-            "build": "py311he9a3d86_2",
-            "filename_stem": "numpy-1.25.2-py311he9a3d86_2",
-            "filename": "numpy-1.25.2-py311he9a3d86_2.tar.gz"
-        },
-        {
-            "name": "xeus-python-shell",
-            "version": "0.6.1",
-            "build": "pyhd8ed1ab_0",
-            "filename_stem": "xeus-python-shell-0.6.1-pyhd8ed1ab_0",
-            "filename": "xeus-python-shell-0.6.1-pyhd8ed1ab_0.tar.gz"
-        },
-        {
-            "name": "python",
-            "version": "3.11.3",
-            "build": "h_hash_24_cpython",
-            "filename_stem": "python-3.11.3-h_hash_24_cpython",
-            "filename": "python-3.11.3-h_hash_24_cpython.tar.gz"
-        },
-        {
-            "name": "xeus-python",
-            "version": "0.15.10",
-            "build": "h1be4ea2_18",
-            "filename_stem": "xeus-python-0.15.10-h1be4ea2_18",
-            "filename": "xeus-python-0.15.10-h1be4ea2_18.tar.gz"
-        },
-        {
-            "name": "executing",
-            "version": "1.2.0",
-            "build": "pyhd8ed1ab_0",
-            "filename_stem": "executing-1.2.0-pyhd8ed1ab_0",
-            "filename": "executing-1.2.0-pyhd8ed1ab_0.tar.gz"
-        },
-        {
-            "name": "xeus-lite",
-            "version": "1.0.2",
-            "build": "h5c9267c_1",
-            "filename_stem": "xeus-lite-1.0.2-h5c9267c_1",
-            "filename": "xeus-lite-1.0.2-h5c9267c_1.tar.gz"
-        },
-        {
-            "name": "stack_data",
-            "version": "0.6.2",
-            "build": "pyhd8ed1ab_0",
-            "filename_stem": "stack_data-0.6.2-pyhd8ed1ab_0",
-            "filename": "stack_data-0.6.2-pyhd8ed1ab_0.tar.gz"
+            "filename_stem": "openpyxl-3.0.9-pyhd8ed1ab_0",
+            "filename": "openpyxl-3.0.9-pyhd8ed1ab_0.tar.gz"
         },
         {
             "name": "backports",
             "version": "1.0",
-            "build": "pyhd8ed1ab_3",
-            "filename_stem": "backports-1.0-pyhd8ed1ab_3",
-            "filename": "backports-1.0-pyhd8ed1ab_3.tar.gz"
+            "build": "py_2",
+            "filename_stem": "backports-1.0-py_2",
+            "filename": "backports-1.0-py_2.tar.gz"
         },
         {
-            "name": "requests-wasm-polyfill",
-            "version": "0.3.0",
-            "build": "had7285e_0",
-            "filename_stem": "requests-wasm-polyfill-0.3.0-had7285e_0",
-            "filename": "requests-wasm-polyfill-0.3.0-had7285e_0.tar.gz"
+            "name": "et_xmlfile",
+            "version": "1.0.1",
+            "build": "py_1001",
+            "filename_stem": "et_xmlfile-1.0.1-py_1001",
+            "filename": "et_xmlfile-1.0.1-py_1001.tar.gz"
         },
         {
-            "name": "setuptools",
-            "version": "68.2.2",
+            "name": "ipython",
+            "version": "8.14.0",
+            "build": "py310h8bed8af_1",
+            "filename_stem": "ipython-8.14.0-py310h8bed8af_1",
+            "filename": "ipython-8.14.0-py310h8bed8af_1.tar.gz"
+        },
+        {
+            "name": "nbformat",
+            "version": "5.7.0",
             "build": "pyhd8ed1ab_0",
-            "filename_stem": "setuptools-68.2.2-pyhd8ed1ab_0",
-            "filename": "setuptools-68.2.2-pyhd8ed1ab_0.tar.gz"
+            "filename_stem": "nbformat-5.7.0-pyhd8ed1ab_0",
+            "filename": "nbformat-5.7.0-pyhd8ed1ab_0.tar.gz"
         },
         {
-            "name": "xeus-python-shell-raw",
-            "version": "0.6.1",
+            "name": "bqplot",
+            "version": "0.12.36",
             "build": "pyhd8ed1ab_0",
-            "filename_stem": "xeus-python-shell-raw-0.6.1-pyhd8ed1ab_0",
-            "filename": "xeus-python-shell-raw-0.6.1-pyhd8ed1ab_0.tar.gz"
+            "filename_stem": "bqplot-0.12.36-pyhd8ed1ab_0",
+            "filename": "bqplot-0.12.36-pyhd8ed1ab_0.tar.gz"
         },
         {
-            "name": "parso",
-            "version": "0.8.3",
-            "build": "pyhd8ed1ab_0",
-            "filename_stem": "parso-0.8.3-pyhd8ed1ab_0",
-            "filename": "parso-0.8.3-pyhd8ed1ab_0.tar.gz"
+            "name": "vega_datasets",
+            "version": "0.9.0",
+            "build": "pyhd3deb0d_0",
+            "filename_stem": "vega_datasets-0.9.0-pyhd3deb0d_0",
+            "filename": "vega_datasets-0.9.0-pyhd3deb0d_0.tar.gz"
         },
         {
-            "name": "traitlets",
-            "version": "5.11.2",
+            "name": "zipp",
+            "version": "3.10.0",
             "build": "pyhd8ed1ab_0",
-            "filename_stem": "traitlets-5.11.2-pyhd8ed1ab_0",
-            "filename": "traitlets-5.11.2-pyhd8ed1ab_0.tar.gz"
+            "filename_stem": "zipp-3.10.0-pyhd8ed1ab_0",
+            "filename": "zipp-3.10.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "sqlite",
+            "version": "3.37.2",
+            "build": "hc67169a_1",
+            "filename_stem": "sqlite-3.37.2-hc67169a_1",
+            "filename": "sqlite-3.37.2-hc67169a_1.tar.gz"
+        },
+        {
+            "name": "appdirs",
+            "version": "1.4.4",
+            "build": "pyh9f0ad1d_0",
+            "filename_stem": "appdirs-1.4.4-pyh9f0ad1d_0",
+            "filename": "appdirs-1.4.4-pyh9f0ad1d_0.tar.gz"
+        },
+        {
+            "name": "python",
+            "version": "3.10.2",
+            "build": "h_hash_28_cpython",
+            "filename_stem": "python-3.10.2-h_hash_28_cpython",
+            "filename": "python-3.10.2-h_hash_28_cpython.tar.gz"
+        },
+        {
+            "name": "plotnine",
+            "version": "0.9.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "plotnine-0.9.0-pyhd8ed1ab_0",
+            "filename": "plotnine-0.9.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "importlib-metadata",
+            "version": "5.0.0",
+            "build": "pyha770c72_1",
+            "filename_stem": "importlib-metadata-5.0.0-pyha770c72_1",
+            "filename": "importlib-metadata-5.0.0-pyha770c72_1.tar.gz"
+        },
+        {
+            "name": "widgetsnbextension",
+            "version": "4.0.3",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "widgetsnbextension-4.0.3-pyhd8ed1ab_0",
+            "filename": "widgetsnbextension-4.0.3-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "numpy",
+            "version": "1.25.2",
+            "build": "py310h6d2fff6_0",
+            "filename_stem": "numpy-1.25.2-py310h6d2fff6_0",
+            "filename": "numpy-1.25.2-py310h6d2fff6_0.tar.gz"
+        },
+        {
+            "name": "jupyterlab_widgets",
+            "version": "3.0.3",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "jupyterlab_widgets-3.0.3-pyhd8ed1ab_0",
+            "filename": "jupyterlab_widgets-3.0.3-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "entrypoints",
+            "version": "0.4",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "entrypoints-0.4-pyhd8ed1ab_0",
+            "filename": "entrypoints-0.4-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "httpx",
+            "version": "0.18.1",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "httpx-0.18.1-pyhd8ed1ab_0",
+            "filename": "httpx-0.18.1-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "ipython_genutils",
+            "version": "0.2.0",
+            "build": "py_1",
+            "filename_stem": "ipython_genutils-0.2.0-py_1",
+            "filename": "ipython_genutils-0.2.0-py_1.tar.gz"
+        },
+        {
+            "name": "kiwisolver",
+            "version": "1.3.2",
+            "build": "hbf4eec8_3",
+            "filename_stem": "kiwisolver-1.3.2-hbf4eec8_3",
+            "filename": "kiwisolver-1.3.2-hbf4eec8_3.tar.gz"
+        },
+        {
+            "name": "ipydatagrid",
+            "version": "1.1.13",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "ipydatagrid-1.1.13-pyhd8ed1ab_0",
+            "filename": "ipydatagrid-1.1.13-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "certifi",
+            "version": "2022.9.24",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "certifi-2022.9.24-pyhd8ed1ab_0",
+            "filename": "certifi-2022.9.24-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "httpcore",
+            "version": "0.13.7",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "httpcore-0.13.7-pyhd8ed1ab_0",
+            "filename": "httpcore-0.13.7-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "seaborn-base",
+            "version": "0.12.1",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "seaborn-base-0.12.1-pyhd8ed1ab_0",
+            "filename": "seaborn-base-0.12.1-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "xeus-python-shell",
+            "version": "0.5.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "xeus-python-shell-0.5.0-pyhd8ed1ab_0",
+            "filename": "xeus-python-shell-0.5.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "traittypes",
+            "version": "0.2.1",
+            "build": "pyh9f0ad1d_2",
+            "filename_stem": "traittypes-0.2.1-pyh9f0ad1d_2",
+            "filename": "traittypes-0.2.1-pyh9f0ad1d_2.tar.gz"
+        },
+        {
+            "name": "tenacity",
+            "version": "8.1.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "tenacity-8.1.0-pyhd8ed1ab_0",
+            "filename": "tenacity-8.1.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "wcwidth",
+            "version": "0.2.5",
+            "build": "pyh9f0ad1d_2",
+            "filename_stem": "wcwidth-0.2.5-pyh9f0ad1d_2",
+            "filename": "wcwidth-0.2.5-pyh9f0ad1d_2.tar.gz"
+        },
+        {
+            "name": "matplotlib",
+            "version": "3.5.2",
+            "build": "py310h74ff0a5_0",
+            "filename_stem": "matplotlib-3.5.2-py310h74ff0a5_0",
+            "filename": "matplotlib-3.5.2-py310h74ff0a5_0.tar.gz"
+        },
+        {
+            "name": "wheel",
+            "version": "0.38.4",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "wheel-0.38.4-pyhd8ed1ab_0",
+            "filename": "wheel-0.38.4-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "emscripten-abi",
+            "version": "3.1.27",
+            "build": "hb0f4dca_6",
+            "filename_stem": "emscripten-abi-3.1.27-hb0f4dca_6",
+            "filename": "emscripten-abi-3.1.27-hb0f4dca_6.tar.gz"
+        },
+        {
+            "name": "backports.functools_lru_cache",
+            "version": "1.6.4",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "backports.functools_lru_cache-1.6.4-pyhd8ed1ab_0",
+            "filename": "backports.functools_lru_cache-1.6.4-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "scikit-learn",
+            "version": "1.1.1",
+            "build": "py310h74ff0a5_2",
+            "filename_stem": "scikit-learn-1.1.1-py310h74ff0a5_2",
+            "filename": "scikit-learn-1.1.1-py310h74ff0a5_2.tar.gz"
+        },
+        {
+            "name": "fonttools",
+            "version": "4.39.4",
+            "build": "py310h6d2fff6_0",
+            "filename_stem": "fonttools-4.39.4-py310h6d2fff6_0",
+            "filename": "fonttools-4.39.4-py310h6d2fff6_0.tar.gz"
+        },
+        {
+            "name": "seaborn",
+            "version": "0.12.1",
+            "build": "hd8ed1ab_0",
+            "filename_stem": "seaborn-0.12.1-hd8ed1ab_0",
+            "filename": "seaborn-0.12.1-hd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "matplotlib-base",
+            "version": "3.5.2",
+            "build": "h74ff0a5_0",
+            "filename_stem": "matplotlib-base-3.5.2-h74ff0a5_0",
+            "filename": "matplotlib-base-3.5.2-h74ff0a5_0.tar.gz"
+        },
+        {
+            "name": "cycler",
+            "version": "0.11.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "cycler-0.11.0-pyhd8ed1ab_0",
+            "filename": "cycler-0.11.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "pillow",
+            "version": "10.1.0",
+            "build": "h5554403_0",
+            "filename_stem": "pillow-10.1.0-h5554403_0",
+            "filename": "pillow-10.1.0-h5554403_0.tar.gz"
+        },
+        {
+            "name": "h11",
+            "version": "0.12.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "h11-0.12.0-pyhd8ed1ab_0",
+            "filename": "h11-0.12.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "pyrsistent",
+            "version": "0.18.1",
+            "build": "py310h6d2fff6_0",
+            "filename_stem": "pyrsistent-0.18.1-py310h6d2fff6_0",
+            "filename": "pyrsistent-0.18.1-py310h6d2fff6_0.tar.gz"
         },
         {
             "name": "pip",
-            "version": "23.3",
+            "version": "22.3.1",
             "build": "pyhd8ed1ab_0",
-            "filename_stem": "pip-23.3-pyhd8ed1ab_0",
-            "filename": "pip-23.3-pyhd8ed1ab_0.tar.gz"
+            "filename_stem": "pip-22.3.1-pyhd8ed1ab_0",
+            "filename": "pip-22.3.1-pyhd8ed1ab_0.tar.gz"
         },
         {
-            "name": "pygments",
-            "version": "2.16.1",
+            "name": "hyperframe",
+            "version": "6.0.1",
             "build": "pyhd8ed1ab_0",
-            "filename_stem": "pygments-2.16.1-pyhd8ed1ab_0",
-            "filename": "pygments-2.16.1-pyhd8ed1ab_0.tar.gz"
+            "filename_stem": "hyperframe-6.0.1-pyhd8ed1ab_0",
+            "filename": "hyperframe-6.0.1-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "py2vega",
+            "version": "0.6.1",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "py2vega-0.6.1-pyhd8ed1ab_0",
+            "filename": "py2vega-0.6.1-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "xeus-python",
+            "version": "0.15.9",
+            "build": "h4d17c68_0",
+            "filename_stem": "xeus-python-0.15.9-h4d17c68_0",
+            "filename": "xeus-python-0.15.9-h4d17c68_0.tar.gz"
+        },
+        {
+            "name": "ipympl",
+            "version": "0.9.2",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "ipympl-0.9.2-pyhd8ed1ab_0",
+            "filename": "ipympl-0.9.2-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "traitlets",
+            "version": "5.5.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "traitlets-5.5.0-pyhd8ed1ab_0",
+            "filename": "traitlets-5.5.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "jsonschema",
+            "version": "4.17.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "jsonschema-4.17.0-pyhd8ed1ab_0",
+            "filename": "jsonschema-4.17.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "markupsafe",
+            "version": "2.1.3",
+            "build": "py310h6d2fff6_1",
+            "filename_stem": "markupsafe-2.1.3-py310h6d2fff6_1",
+            "filename": "markupsafe-2.1.3-py310h6d2fff6_1.tar.gz"
+        },
+        {
+            "name": "black",
+            "version": "19.3b0",
+            "build": "py_0",
+            "filename_stem": "black-19.3b0-py_0",
+            "filename": "black-19.3b0-py_0.tar.gz"
+        },
+        {
+            "name": "packaging",
+            "version": "21.3",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "packaging-21.3-pyhd8ed1ab_0",
+            "filename": "packaging-21.3-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "jupyter_core",
+            "version": "4.5.0",
+            "build": "py_0",
+            "filename_stem": "jupyter_core-4.5.0-py_0",
+            "filename": "jupyter_core-4.5.0-py_0.tar.gz"
+        },
+        {
+            "name": "pandas",
+            "version": "1.4.3",
+            "build": "hbe3984b_0",
+            "filename_stem": "pandas-1.4.3-hbe3984b_0",
+            "filename": "pandas-1.4.3-hbe3984b_0.tar.gz"
+        },
+        {
+            "name": "ipywidgets",
+            "version": "8.0.7",
+            "build": "py310h8bed8af_0",
+            "filename_stem": "ipywidgets-8.0.7-py310h8bed8af_0",
+            "filename": "ipywidgets-8.0.7-py310h8bed8af_0.tar.gz"
         },
         {
             "name": "matplotlib-inline",
@@ -212,11 +618,165 @@
             "filename": "matplotlib-inline-0.1.6-pyhd8ed1ab_0.tar.gz"
         },
         {
-            "name": "pexpect",
-            "version": "4.8.0",
-            "build": "pyh1a96a4e_2",
-            "filename_stem": "pexpect-4.8.0-pyh1a96a4e_2",
-            "filename": "pexpect-4.8.0-pyh1a96a4e_2.tar.gz"
+            "name": "black",
+            "version": "19.3b0",
+            "build": "pip",
+            "filename_stem": "black-19.3b0-pip",
+            "filename": "black-19.3b0-pip.tar.gz"
+        },
+        {
+            "name": "xeus-lite",
+            "version": "1.0.1",
+            "build": "hf0acc6b_0",
+            "filename_stem": "xeus-lite-1.0.1-hf0acc6b_0",
+            "filename": "xeus-lite-1.0.1-hf0acc6b_0.tar.gz"
+        },
+        {
+            "name": "executing",
+            "version": "1.2.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "executing-1.2.0-pyhd8ed1ab_0",
+            "filename": "executing-1.2.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "joblib",
+            "version": "1.1.0",
+            "build": "py310h8bed8af_0",
+            "filename_stem": "joblib-1.1.0-py310h8bed8af_0",
+            "filename": "joblib-1.1.0-py310h8bed8af_0.tar.gz"
+        },
+        {
+            "name": "jinja2",
+            "version": "3.1.2",
+            "build": "pyhd8ed1ab_1",
+            "filename_stem": "jinja2-3.1.2-pyhd8ed1ab_1",
+            "filename": "jinja2-3.1.2-pyhd8ed1ab_1.tar.gz"
+        },
+        {
+            "name": "pytz",
+            "version": "2022.6",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "pytz-2022.6-pyhd8ed1ab_0",
+            "filename": "pytz-2022.6-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "jedi",
+            "version": "0.18.1",
+            "build": "pyhd8ed1ab_2",
+            "filename_stem": "jedi-0.18.1-pyhd8ed1ab_2",
+            "filename": "jedi-0.18.1-pyhd8ed1ab_2.tar.gz"
+        },
+        {
+            "name": "parso",
+            "version": "0.8.3",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "parso-0.8.3-pyhd8ed1ab_0",
+            "filename": "parso-0.8.3-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "altair",
+            "version": "4.2.0",
+            "build": "pyhd8ed1ab_1",
+            "filename_stem": "altair-4.2.0-pyhd8ed1ab_1",
+            "filename": "altair-4.2.0-pyhd8ed1ab_1.tar.gz"
+        },
+        {
+            "name": "patsy",
+            "version": "0.5.3",
+            "build": "h8bed8af_1",
+            "filename_stem": "patsy-0.5.3-h8bed8af_1",
+            "filename": "patsy-0.5.3-h8bed8af_1.tar.gz"
+        },
+        {
+            "name": "typing_extensions",
+            "version": "4.4.0",
+            "build": "pyha770c72_0",
+            "filename_stem": "typing_extensions-4.4.0-pyha770c72_0",
+            "filename": "typing_extensions-4.4.0-pyha770c72_0.tar.gz"
+        },
+        {
+            "name": "toml",
+            "version": "0.10.2",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "toml-0.10.2-pyhd8ed1ab_0",
+            "filename": "toml-0.10.2-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "sniffio",
+            "version": "1.3.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "sniffio-1.3.0-pyhd8ed1ab_0",
+            "filename": "sniffio-1.3.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "pyviz_comms",
+            "version": "2.2.1",
+            "build": "pyhd8ed1ab_1",
+            "filename_stem": "pyviz_comms-2.2.1-pyhd8ed1ab_1",
+            "filename": "pyviz_comms-2.2.1-pyhd8ed1ab_1.tar.gz"
+        },
+        {
+            "name": "branca",
+            "version": "0.6.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "branca-0.6.0-pyhd8ed1ab_0",
+            "filename": "branca-0.6.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "palettable",
+            "version": "3.3.0",
+            "build": "py_0",
+            "filename_stem": "palettable-3.3.0-py_0",
+            "filename": "palettable-3.3.0-py_0.tar.gz"
+        },
+        {
+            "name": "python-fastjsonschema",
+            "version": "2.16.2",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "python-fastjsonschema-2.16.2-pyhd8ed1ab_0",
+            "filename": "python-fastjsonschema-2.16.2-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "python-tzdata",
+            "version": "2022.6",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "python-tzdata-2022.6-pyhd8ed1ab_0",
+            "filename": "python-tzdata-2022.6-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "attrs",
+            "version": "22.1.0",
+            "build": "pyh71513ae_1",
+            "filename_stem": "attrs-22.1.0-pyh71513ae_1",
+            "filename": "attrs-22.1.0-pyh71513ae_1.tar.gz"
+        },
+        {
+            "name": "plotly",
+            "version": "5.11.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "plotly-5.11.0-pyhd8ed1ab_0",
+            "filename": "plotly-5.11.0-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "scipy",
+            "version": "1.8.1",
+            "build": "py310h74ff0a5_4",
+            "filename_stem": "scipy-1.8.1-py310h74ff0a5_4",
+            "filename": "scipy-1.8.1-py310h74ff0a5_4.tar.gz"
+        },
+        {
+            "name": "setuptools",
+            "version": "64.0.0",
+            "build": "py310h8bed8af_0",
+            "filename_stem": "setuptools-64.0.0-py310h8bed8af_0",
+            "filename": "setuptools-64.0.0-py310h8bed8af_0.tar.gz"
+        },
+        {
+            "name": "toolz",
+            "version": "0.12.0",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "toolz-0.12.0-pyhd8ed1ab_0",
+            "filename": "toolz-0.12.0-pyhd8ed1ab_0.tar.gz"
         }
     ]
 }
